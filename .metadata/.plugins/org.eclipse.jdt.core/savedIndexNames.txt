@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\Bruno Melniski\Desktop\1TDST\.metadata\.plugins\org.eclipse.jdt.core
+2830703188.index
+2884539892.index
+974731857.index
+2502902422.index
+1474688463.index
+3227231680.index

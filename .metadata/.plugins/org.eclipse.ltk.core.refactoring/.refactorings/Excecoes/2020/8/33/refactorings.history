@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;br.com.excecoes.exception&apos; to &apos;Conexao/src&apos;&#x0D;&#x0A;- Original project: &apos;Excecoes&apos;&#x0D;&#x0A;- Destination element: &apos;Conexao/src&apos;&#x0D;&#x0A;- Original element: &apos;Excecoes/src/br.com.excecoes.exception&apos;" description="Copy package" destination="=Conexao/src" element1="/src&lt;br.com.excecoes.exception" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1597103528788" version="1.0"/>
+</session>

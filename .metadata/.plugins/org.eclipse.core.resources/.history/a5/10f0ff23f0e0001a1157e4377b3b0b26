@@ -1,0 +1,9 @@
+package br.com.projeto.beans;
+
+public class Cargo {
+	private String nome;
+	private String nivel;
+	double salario;
+	private int id;
+
+}
